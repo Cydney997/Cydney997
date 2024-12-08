@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on INTRODUCTORY PROJECTS
 - 📫 How to reach me... LinkedIn: https://www.linkedin.com/in/cydneyr/
 - 😄 Pronouns: she/her(s)
-- ⚡ Fun fact: I'm currentlty a social worker looking to transition to a tech role. I will forever be a social justice warrior, though.
+- ⚡ Fun fact: I am currently a Licensed Social Worker in the state of Ohio looking to transition to a career in data science!
 
 <!---
 Cydney997/Cydney997 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
