@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Cydney997
 - 👀 I’m interested in DATA ANALYTICS
-- 🌱 I’m currently learning PYTHON, SQL, DB FUNDAMENTALS
+- 🌱 I’m currently learning PYTHON, SQL, DB FUNDAMENTALS, R
 - 💞️ I’m looking to collaborate on INTRODUCTORY PROJECTS
-- 📫 How to reach me... I guess just shoot me a message lol.
+- 📫 How to reach me... LinkedIn: https://www.linkedin.com/in/cydneyr/
 - 😄 Pronouns: she/her(s)
-- ⚡ Fun fact: I'm currentlty a social worker looking to transition to a tech role. I will forever be a social justice warrior though.
+- ⚡ Fun fact: I'm currentlty a social worker looking to transition to a tech role. I will forever be a social justice warrior, though.
 
 <!---
 Cydney997/Cydney997 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
