@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Cydney997
+- 👋 Hi, I’m Cydney!
 - 👀 I’m interested in DATA ANALYTICS
-- 🌱 I’m currently learning PYTHON, SQL, DB FUNDAMENTALS, R
+- 🌱 I’m currently learning PYTHON, SQL, and R
 - 💞️ I’m looking to collaborate on INTRODUCTORY PROJECTS
 - 📫 How to reach me... LinkedIn: https://www.linkedin.com/in/cydneyr/
 - 😄 Pronouns: she/her(s)
